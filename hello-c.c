@@ -5,5 +5,5 @@ int main()
 {
     write(1, "Hello World!\n", 13);
     
-    exit(0);
+    return 0;
 }
